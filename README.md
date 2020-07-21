@@ -1,3 +1,8 @@
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 <div style="text-align:center"><img src="https://github.com/blinkchan/blinkchan/blob/master/rickrollsmall.gif?style=centerme" /></div>
 
 <!--
