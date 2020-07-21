@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://github.com/blinkchan/blinkchan/blob/master/rickrollsmall.gif" /></div>
+<div style="text-align:center"><img src="https://github.com/blinkchan/blinkchan/blob/master/rickrollsmall.gif?style=centerme" /></div>
 
 <!--
 **blinkchan/blinkchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
