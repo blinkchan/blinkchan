@@ -2,7 +2,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/blinkchan/blinkchan/blob/master/rickrollsmall.gif"></a>
 </p>
 
-
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="xwu" data-slug-hash="wvAbF" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Animated 404">
+  <span>See the Pen <a href="https://codepen.io/xwu/pen/wvAbF">
+  Animated 404</a> by sayafang (<a href="https://codepen.io/xwu">@xwu</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 <!--
 **blinkchan/blinkchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
